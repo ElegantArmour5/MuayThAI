@@ -1,0 +1,5 @@
+arm,impact_frame,tsec,elbow_deg,within_range,line_off_over_S,line_off_ok,wristflex_deg,wristflex_ok,wristdrop_over_S,wristdrop_ok,chintuck_deg,chintuck_ok,torso_tilt_deg,torso_tilt_ok,guard_ok_nonpunch
+L,87,2.915,171.5,1,0.048,1,2.9,1,0.297,0,177.7,0,119.0,0,0
+L,138,4.624,169.2,1,0.064,0,17.5,0,0.373,0,166.5,0,123.5,0,0
+R,32,1.072,171.7,1,0.059,1,2.0,1,1.555,0,157.3,0,146.4,0,0
+R,79,2.647,174.5,1,0.103,0,5.2,1,0.380,0,169.4,0,129.1,0,0
